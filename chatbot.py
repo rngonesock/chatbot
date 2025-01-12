@@ -12,3 +12,4 @@ else:
 print("What is your favorite hobby?")
 hobby = input()
 print("Nice, thats an interesting hobby")
+print("I'll come back in one minute")
